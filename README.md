@@ -1,1 +1,0 @@
-# Simple-Student-Marks-Management-System-..
